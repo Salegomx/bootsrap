@@ -1,0 +1,6 @@
+:root {
+    --bg-black: #111;
+}
+.bg-darker {
+    background-color: var(--bg-black);
+}
